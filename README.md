@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ariel
+- 👋 Hi, I’m Ariel
 - 👀 I’m interested in **Python**
 - 🌱 I’m currently learning **REACT**
 - 💞️ I’m looking to collaborate on ...
