@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ari3lant
-- 👀 I’m interested in **AI**
-- 🌱 I’m currently learning **Python**
+- 👋 Hi, I’m ariel
+- 👀 I’m interested in **Python**
+- 🌱 I’m currently learning **REACT**
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
